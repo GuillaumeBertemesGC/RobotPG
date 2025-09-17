@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class RoborProjectGame : ModuleRules
+public class RobotProjetGame : ModuleRules
 {
-	public RoborProjectGame(ReadOnlyTargetRules Target) : base(Target)
+	public RobotProjetGame(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
