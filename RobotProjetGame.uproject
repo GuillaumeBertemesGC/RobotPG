@@ -28,6 +28,23 @@
 		{
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "Avalanche",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "StormSync",
+			"Enabled": true
+		},
+		{
+			"Name": "StormSyncAvalancheBridge",
+			"Enabled": true
 		}
 	]
 }
