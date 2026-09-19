@@ -45,6 +45,13 @@
 		{
 			"Name": "StormSyncAvalancheBridge",
 			"Enabled": true
+		},
+		{
+			"Name": "CodexBridge",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		}
 	]
 }

@@ -1,0 +1,13 @@
+# Project-local Codex MCP configuration.
+# The project must be trusted before Codex loads this file.
+
+[mcp_servers.unreal_blueprint]
+command = "C:\\Program Files\\dotnet\\dotnet.exe"
+args = [
+  "D:\\Documents\\01_GamingCampus\\02_Year\\Projet_Libre\\GittRep\\RobotPG\\Tools\\CodexBridge\\bin\\Release\\net8.0\\codex-mcp.dll",
+  "--url",
+  "http://127.0.0.1:31010"
+]
+startup_timeout_sec = 30
+tool_timeout_sec = 120
+default_tools_approval_mode = "prompt"

@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Codex Bridge",
+	"Description": "Local editor-only bridge for inspecting and compiling Unreal Blueprints.",
+	"Category": "Editor",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"Modules": [
+		{
+			"Name": "CodexBridge",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
