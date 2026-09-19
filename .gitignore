@@ -88,3 +88,9 @@ Config/DefaultEditorPerProjectUserSettings.ini
 
 # Collections (local-only, not needed in repo)
 Content/Collections/*
+
+# JetBrains Rider
+.idea/
+
+# Unreal/Visual Studio generated solution files
+*.slnx
