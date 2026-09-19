@@ -68,10 +68,20 @@ DerivedDataCache/*
 *.VC.opendb
 *.VC.db
 
+# JetBrains Rider
+.idea/
+
+# Unreal/Visual Studio generated solution files
+*.slnx
+
 # Local Plugins
 **/Plugins/**/Intermediate/*
 **/Plugins/**/Binaries/*
 **/Plugins/**/Saved/*
+
+# Local .NET tools
+Tools/**/bin/
+Tools/**/obj/
 
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
