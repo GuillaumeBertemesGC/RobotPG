@@ -1,0 +1,179 @@
+{
+	"BroadcastPath": "/Temp/AvaMedia/AvaBroadcast.AvaBroadcast",
+	"Broadcast":
+	{
+		"CurrentProfile": "Profile",
+		"ChannelNames": [
+			"Channel_0"
+		],
+		"Profiles":
+		{
+			"Profile":
+			{
+				"Channels": [
+					{
+						"ChannelIndex": 0,
+						"MediaOutputs": [],
+						"MediaOutputInfos": [],
+						"QualitySettings":
+						{
+							"Features": [
+								{
+									"Name": "AmbientCubemap",
+									"bEnabled": true
+								},
+								{
+									"Name": "AmbientOcclusion",
+									"bEnabled": true
+								},
+								{
+									"Name": "AntiAliasing",
+									"bEnabled": true
+								},
+								{
+									"Name": "EyeAdaptation",
+									"bEnabled": true
+								},
+								{
+									"Name": "CapsuleShadows",
+									"bEnabled": true
+								},
+								{
+									"Name": "ContactShadows",
+									"bEnabled": true
+								},
+								{
+									"Name": "DepthOfField",
+									"bEnabled": true
+								},
+								{
+									"Name": "DirectLighting",
+									"bEnabled": true
+								},
+								{
+									"Name": "DisableOcclusionQueries",
+									"bEnabled": true
+								},
+								{
+									"Name": "DistanceFieldAO",
+									"bEnabled": true
+								},
+								{
+									"Name": "DynamicShadows",
+									"bEnabled": true
+								},
+								{
+									"Name": "GlobalIllumination",
+									"bEnabled": true
+								},
+								{
+									"Name": "IndirectLightingCache",
+									"bEnabled": true
+								},
+								{
+									"Name": "LensFlares",
+									"bEnabled": true
+								},
+								{
+									"Name": "LightShafts",
+									"bEnabled": true
+								},
+								{
+									"Name": "LumenDetailTraces",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenFarFieldTraces",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenGlobalIllumination",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenGlobalTraces",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenReflections",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenReuseShadowMaps",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenScreenSpaceDirectionalOcclusion",
+									"bEnabled": false
+								},
+								{
+									"Name": "LumenSecondaryBounces",
+									"bEnabled": false
+								},
+								{
+									"Name": "MotionBlur",
+									"bEnabled": true
+								},
+								{
+									"Name": "PrecomputedVisibility",
+									"bEnabled": true
+								},
+								{
+									"Name": "RayTracedDistanceFieldShadows",
+									"bEnabled": true
+								},
+								{
+									"Name": "ReflectionEnvironment",
+									"bEnabled": true
+								},
+								{
+									"Name": "ScreenSpaceAO",
+									"bEnabled": true
+								},
+								{
+									"Name": "ScreenSpaceReflections",
+									"bEnabled": true
+								},
+								{
+									"Name": "SeparateTranslucency",
+									"bEnabled": false
+								},
+								{
+									"Name": "SubsurfaceScattering",
+									"bEnabled": true
+								},
+								{
+									"Name": "TemporalAA",
+									"bEnabled": true
+								},
+								{
+									"Name": "TexturedLightProfiles",
+									"bEnabled": true
+								},
+								{
+									"Name": "Translucency",
+									"bEnabled": true
+								},
+								{
+									"Name": "VolumetricFog",
+									"bEnabled": true
+								},
+								{
+									"Name": "VolumetricLightmap",
+									"bEnabled": true
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		"ChannelTypes":
+		{
+		},
+		"PinnedChannels":
+		{
+		}
+	},
+	"ReferencedObjects": []
+}
