@@ -88,3 +88,4 @@ Config/DefaultEditorPerProjectUserSettings.ini
 
 # Collections (local-only, not needed in repo)
 Content/Collections/*
+Bin
